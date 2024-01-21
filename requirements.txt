@@ -1,0 +1,6 @@
+streamlit~=1.30.0
+google-generativeai
+python-dotenv~=1.0.0
+pdf2image~=1.17.0
+
+pillow~=10.2.0
